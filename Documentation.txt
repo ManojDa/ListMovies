@@ -1,0 +1,7 @@
+The application to show upcoming movies and Top rated movies
+
+I have used Bootstrap React and React framework in the web application
+
+
+I have used React Router for routing pages between Upcoming and Top rated movies
+
